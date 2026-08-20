@@ -5,8 +5,8 @@
  * the template width/height so it stays aligned at any download size.
  */
 export const seminar = {
-  title: "Student Leaders' Investiture",
-  tagline: "LEAD. SERVE. INSPIRE",
+  title: "ANTI-BULLYING SEMINAR (CYBER BULLYING AND ONLINE SEXUAL ABUSE OR EXPLOITATION OF CHILDREN [OSAEC])",
+  tagline: "",
   subtitle: "Certificate of Participation",
   dateLabel: "Youth Month 2026",
   organization: "CYSDO",
